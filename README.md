@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying in Toronto Metropolitan University<br>Working on projects to build software development skills
+Currently studying in Torto Metropolitan University<br>Working on projects to build software development skills
 
 
 ## 🌐 Socials:
