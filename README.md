@@ -25,9 +25,20 @@ Tools & Tech
 
 Reach me
 
-- LinkedIn: https://www.linkedin.com/in/swapnil-das1  
-- Portfolio: https://swapnil-das.netlify.app  
-- Email: swapnil.das@torontomu.ca
+Reach me
+
+<a href="https://www.linkedin.com/in/swapnil-das1">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" />
+</a>
+&nbsp;&nbsp;
+<a href="https://swapnil-das.netlify.app">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="18" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:swapnil.das@torontomu.ca">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" />
+</a>
+
 
 
 
