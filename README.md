@@ -17,7 +17,7 @@ Tools & Tech
 - JavaScript, Java, Python, SQL, C/C++, Rust, Haskell, Elixir
 - React, Node.js, Tailwind CSS, FastAPI, Flask
 - Pandas, Scikit-learn, TensorFlow
-- Docker, AWS (S3, EC2), Apache Airflow, Linux
+- Docker, AWS, Apache Airflow, Linux
 - PostgreSQL, Power BI, Tableau
 - Git, VS Code, IntelliJ, PyCharm
 
